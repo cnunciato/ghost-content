@@ -16,3 +16,6 @@
 [submodule "content/themes/ghostion"]
 	path = content/themes/ghostion
 	url = https://github.com/axiantheme/ghostion
+[submodule "content/themes/rollsroyce"]
+	path = content/themes/rollsroyce
+	url = https://github.com/roycehaynes/rollsroyce

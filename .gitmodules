@@ -7,3 +7,6 @@
 [submodule "content/themes/froyo"]
 	path = content/themes/froyo
 	url = https://github.com/adriannorman/froyo-ghost-theme.git
+[submodule "content/themes/ghostwriter"]
+	path = content/themes/ghostwriter
+	url = https://github.com/roryg/ghostwriter

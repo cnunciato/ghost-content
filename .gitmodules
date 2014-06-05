@@ -10,3 +10,6 @@
 [submodule "content/themes/ghostwriter"]
 	path = content/themes/ghostwriter
 	url = https://github.com/roryg/ghostwriter
+[submodule "content/themes/photoghost"]
+	path = content/themes/photoghost
+	url = https://github.com/cvandonderen/photoghost

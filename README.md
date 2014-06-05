@@ -4,7 +4,7 @@ A collection of public/free themes intended to accompany my [ghost-cookbook for 
 
 ### Usage
 
-First, install [ghost-cookbook for Chef](https://github.com/cnunciato/ghost-cookbook) on your Chef server.  Then include a reference to this repository in either a role definition:
+First, install [ghost-cookbook](https://github.com/cnunciato/ghost-cookbook) and its dependencies on your Chef server.  Then include a reference to this repository in either a role definition:
 
     {
       "name": "ghost-blog",

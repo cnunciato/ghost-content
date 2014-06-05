@@ -13,3 +13,6 @@
 [submodule "content/themes/photoghost"]
 	path = content/themes/photoghost
 	url = https://github.com/cvandonderen/photoghost
+[submodule "content/themes/ghostion"]
+	path = content/themes/ghostion
+	url = https://github.com/axiantheme/ghostion

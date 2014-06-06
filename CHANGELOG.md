@@ -2,4 +2,4 @@
 
 ### 0.1.0
 
-  * Start with just Casper
+  * Start with Casper, Swayze, Scriptor, Crisp, Froyo

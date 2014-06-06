@@ -1,6 +1,6 @@
 # ghost-content
 
-A collection of public/free themes intended to accompany my [ghost-cookbook for Chef](https://github.com/cnunciato/ghost-cookbook).  
+A collection of public/free themes intended to accompany the [ghost-cookbook for Chef](https://github.com/cnunciato/ghost-cookbook).  
 
 ### Usage
 
@@ -29,7 +29,7 @@ First, install [ghost-cookbook](https://github.com/cnunciato/ghost-cookbook) and
 
     node.override['ghost']['remote']['name'] = 'ghost-content'
     node.override['ghost']['remote']['repo'] = 'https://github.com/cnunciato/ghost-content.git'
-    node.override['ghost']['remote']['revision'] = 'master'
+    node.override['ghost']['remote']['revision'] = '0.1.0'
 
 ... and the [ghost cookbook](https://github.com/cnunciato/ghost-cookbook) will pick it up automatically.
 

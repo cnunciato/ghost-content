@@ -33,6 +33,15 @@ First, install [ghost-cookbook](https://github.com/cnunciato/ghost-cookbook) and
 
 ... and the [ghost cookbook](https://github.com/cnunciato/ghost-cookbook) will pick it up automatically.
 
+### Included Themes
+
+  * [casper](https://github.com/TryGhost/Casper) (0.9.3)
+  * [swayze](http://ghost.woothemes.com/)
+  * [scriptor](http://justgoodthemes.com/blog/scriptor-free-ghost-theme-for-writers/)
+  * [froyo](https://github.com/adriannorman/froyo-ghost-theme)
+  * [crisp](https://github.com/kathyqian/crisp-ghost-theme)
+
+
 ### About Ghost
 
 Ghost is a free, open, simple blogging platform that's available to anyone who wants to use it. Visit the project's website at <http://ghost.org> for more information.
